@@ -1,0 +1,8 @@
+{
+  "name": "Remix: JewelLedger",
+  "description": "Business Accounting \u0026 Order Management App for wholesale jewellery business. Track ledger, cash/bank transactions, gold receipt/payments, rate cuts, estimates, invoices, and orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
